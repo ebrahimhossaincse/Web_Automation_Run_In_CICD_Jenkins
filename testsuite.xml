@@ -1,0 +1,7 @@
+<suite name="Suite">
+    <test name="Automation">
+        <classes>
+            <class name="me.ebrahimhossain.tests.LoginTest"/>
+        </classes>
+    </test>
+</suite>
